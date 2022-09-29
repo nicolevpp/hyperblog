@@ -4,6 +4,6 @@ Esta es mi tercera practica de GIT
 
 WOW
 
-Estoy muy emocionada
+Estoy muy emocionada, esto es un stagging?
 
 Hasta pronto
