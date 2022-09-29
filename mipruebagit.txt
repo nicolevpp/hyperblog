@@ -1,7 +1,9 @@
 Bienvenidos
 
-Esta es mi segunda practica de GIT
+Esta es mi tercera practica de GIT
+
+WOW
 
 Estoy muy emocionada
 
-Chaoo
+Hasta pronto
