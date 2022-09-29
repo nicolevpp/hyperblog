@@ -1,6 +1,6 @@
 Bienvenidos
 
-Esta es mi primera practica de GIT
+Esta es mi segunda practica de GIT
 
 Estoy muy emocionada
 
