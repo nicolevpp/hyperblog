@@ -1,4 +1,4 @@
-# Welcome to Hyperblog! :tw-1f49a:
+# Welcome to Hyperblog! 💚
 Este es el archivo **README.md** de mi proyecto, en este repositorio encontrarás prácticas de mi aprendizaje de *Git y GitHub.*
 
 ### Por ejemplo:
