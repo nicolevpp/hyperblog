@@ -5,6 +5,7 @@ Este es el archivo **README.md** de mi proyecto, en este repositorio encontrará
 -  Conceptos Introductorios de Git
 -  Funciones Básicas de Git
 - Integraciones entre Git y GitHub
+- Creado por el increíble Platzi Team
 
 Recordatorio personal:
 > ¡Nunca pares de aprender!
